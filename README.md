@@ -1,0 +1,1 @@
+a simple mail helper with swiftmail.
