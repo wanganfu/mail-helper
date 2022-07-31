@@ -17,5 +17,12 @@
             "email": "1435427137@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+	"extra": {
+		"think": {
+			"config": {
+				"mail": "config/mail.php"
+			}
+		}
+	}
 }
