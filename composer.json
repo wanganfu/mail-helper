@@ -1,0 +1,21 @@
+{
+    "name": "annon/mail-helper",
+    "description": "a simple mail helper with swiftmail.",
+    "type": "library",
+    "require": {
+        "swiftmailer/swiftmailer": "6.*"
+    },
+    "license": "MulanPSL-2.0",
+    "autoload": {
+        "psr-4": {
+            "annon\\MailHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anfu",
+            "email": "1435427137@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
